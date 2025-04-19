@@ -51,10 +51,7 @@ Write ten (10) user stories for a book-borrowing website for a library. Write it
 9. **As a** member, **I want to** set up email/SMS notifications for due dates, **so that** I avoid late return fines.  
 10. **As a** librarian, **I want to** add new books to the catalog with cover images and descriptions, **so that** members can discover recent additions easily.  
 
-```
-Your answers here
-```
-
+ 
 Question 3: 
 Define [Acceptance Criteria](https://resources.scrumalliance.org/Article/need-know-acceptance-criteria) for 3 to 5 user stories out of the 10 user stories you have defined.
 
