@@ -7,8 +7,7 @@ Write your answers for each question:
 Question 1:
 Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. n your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
 
-```
-Your answer here
+Answer:
 
 # How Implementing Scrum Can Improve a Startup IT Team's Productivity  
 
@@ -34,7 +33,7 @@ Implementing Scrum can significantly enhance a startup IT team’s productivity 
 
 By embedding flexibility, accountability, and continuous improvement, Scrum helps startups streamline IT infrastructure development, accelerate delivery, and maintain alignment with dynamic business goals.  
 
-```
+ 
 
 Question 2:
 Write ten (10) user stories for a book-borrowing website for a library. Write it in the format: `As a ____, I want to ____, so that _____`.
@@ -59,8 +58,7 @@ Your answers here
 Question 3: 
 Define [Acceptance Criteria](https://resources.scrumalliance.org/Article/need-know-acceptance-criteria) for 3 to 5 user stories out of the 10 user stories you have defined.
 
-```
-Your answers here
+ Answer:
 
 ### Acceptance Criteria for Selected User Stories  
 
@@ -112,7 +110,7 @@ Your answers here
   - Results are sorted by relevance and availability (available books appear first).  
   - Filters allow narrowing results by publication year, format (e.g., eBook, physical), or language.  
   - A "No results found" message displays if no matches exist.  
-```
+ 
 
 
 ### Submission 
