@@ -6,6 +6,7 @@
 - A: True
 - B: False
 ---
+B
 
 ### Q2: Which of the following is incorrect about Agile Manifesto?
 
@@ -14,14 +15,16 @@
 - C: Customer collaboration > contract negotiation
 - D: Following a plan > responding to change
 ---
+D
 
 ### Q3: Which role is not part of the SCRUM Team?
 
 - A: SCRUM Master
-- B: Product Owner
+- B: Product Owners
 - C: Developers
 - D: Deployment Specialist
 ---
+D
 
 ### Q4: Which of the following is part of the three pillars in SCRUM Theory?
 
@@ -30,6 +33,8 @@
 - C: Inspection
 - D: Adaptation
 ---
+BCD
+
 ### Q5: Which of the following is not a SCRUM Value?
 
 - A: Openness
@@ -37,12 +42,16 @@
 - C: Commitment
 - D: Focus
 ---
+C
+
 ### Q6: Which of the following is false about what sprint is?
 - A: It is a 3-days fast development track.
 - B: A sprint is a short development cycle where the team aims to produce a near shippable product iteration.
 - C: The sprint is the heart of SCRUM methodology.
 - D: A sprint is time-boxed between 1 week to 4 weeks duration.
 ---
+A
+
 ### Q7: Which of the following is false about what sprint planning is?
 
 - A: It is where user stories in product backlog is being moved to sprint backlog.
@@ -50,6 +59,8 @@
 - C: It is a meeting to kickstart the upcoming sprint.
 - D: It is a meeting to set the goal of the upcoming sprint.
 ---
+B
+
 ### Q8: Which sentence is false in describing the difference between sprint backlog and product backlog?
 
 - A: Product backlog contains user stories to be completed in the future sprint.
@@ -57,6 +68,8 @@
 - C: Product backlog typically describes the entire features of the product to date.
 - D: Sprint backlog contains only the outstanding user stories from previous sprint.
 ---
+D
+
 ### Q9: Which of the following is incorrect about the definition of done?
 
 - A: An agreement of the results.
@@ -64,9 +77,12 @@
 - C: The developer who undertake the task defines the definition of done independently.
 - D: There should be not assumptions to what are expected from the outcome produced.
 ---
+C
+
 ### Q10: Which of the following does not describe the purpose of retrospective meeting?
 
 - A: Discuss what has worked well in the closing sprint.
 - B: Discuss what can be improved.
 - C: Decide what can be implemented susintability.
 - D: All improvements should be implemented immediately in the next sprint.
+D
